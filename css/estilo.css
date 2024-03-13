@@ -1,0 +1,21 @@
+body{
+    width: 400px;
+    margin: auto;
+}
+
+a{
+    padding: 5px;
+    background: rgb(196, 60, 83);
+    color: white;
+    margin: 5px;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+
+input{
+    width: 90%;
+    height: 35px;
+    margin: 10px auto;
+    border-radius: 5px;
+}
